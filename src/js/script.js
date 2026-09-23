@@ -12,4 +12,11 @@ function cadastrarVinho() {
 
 alert("Cadastro realizado!.");
 
+    console.log("DETALHES DO VINHO CADASTRADO ");
+    console.log("Nome: " + nomeVinho);
+    console.log("Tipo: " + tipoVinho);
+    console.log("Safra: " + safraVinhos);
+    console.log("Quantidade em estoque: " + estoqueVinho);
 }
+
+
