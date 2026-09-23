@@ -10,7 +10,7 @@ function cadastrarVinho() {
     var safraVinhos = prompt("Digite a safra do vinho (ano):");
     var estoqueVinho = prompt("Digite a quantidade em estoque:");
 
-alert("Cadastro realizado!.");
+      alert("Cadastro realizado!.");
 
     console.log("DETALHES DO VINHO CADASTRADO ");
     console.log("Nome: " + nomeVinho);
