@@ -10,7 +10,7 @@ function cadastrarVinho() {
 
       alert("Cadastro realizado!.");
 
-      alert("A seguir, veja os detalhes do vinho no console")
+      alert("A seguir, veja os detalhes do vinho no console");
 
     console.log("DETALHES DO VINHO CADASTRADO ");
     console.log("Nome: " + nomeVinho);
